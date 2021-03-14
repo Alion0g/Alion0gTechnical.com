@@ -30,7 +30,7 @@ h2{
 
 .header{
 	width: 100%; height: 100vh;
-	background-image: linear-gradient(rgba(0, 166, 255, 0.2),rgba(0, 166, 255, 0.2)),url('../img/_.png');
+	background-image: linear-gradient(rgba(0, 166, 255, 0.2),rgba(0, 166, 255, 0.2)),url('https://raw.githubusercontent.com/Baasha01/AlbidoTechnical.com/main/img/_.png');
 	background-size: 100% 100%;
 	clip-path: polygon(100% 0%, 100% 75%, 50% 100%, 0% 75%, 0 0);
 	position: relative;
